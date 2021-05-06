@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ExamenMovilMauricioGuevara</string>
+    <string name="txtTittle">Title:</string>
+    <string name="txtIsbn">Isbn:</string>
+    <string name="txtAuthor">Author:</string>
+    <string name="txtDate">Date:</string>
+    <string name="txtPages">Pages:</string>
+    <string name="txtDescription">Description</string>
+    <string name="txtPhotoURL">Photo URL:</string>
+    <string name="txtTittleAddBook">Nuevo Libro</string>
+
+
 </resources>
